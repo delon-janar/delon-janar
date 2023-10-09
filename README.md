@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Delon
 - 👀 I’m interested in UI/UX and technology!
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Programming
 - 💞️ I’m looking to collaborate on ITS Website Team
 - 📫 How to reach me: @delonjanar on Instagram
 
