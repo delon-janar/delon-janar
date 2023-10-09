@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Delon
+- 👋 Hi, I’m Delon Janar
 - 👀 I’m interested in UI/UX and technology!
 - 🌱 I’m currently learning Web Programming
 - 💞️ I’m looking to collaborate on ITS Website Team
